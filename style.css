@@ -43,3 +43,10 @@ img {
 .group {
   *zoom: 1.5;
 }
+.group a{
+  color: red;
+}
+.group li{
+  collapse: 1px;
+  color: red;
+}
